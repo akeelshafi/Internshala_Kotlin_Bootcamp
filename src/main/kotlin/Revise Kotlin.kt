@@ -54,6 +54,9 @@ fun main(){
 
    without mention of data type == unit
 
+   string function in kotlin
+   fun function name ()
+{}
 
 
 
