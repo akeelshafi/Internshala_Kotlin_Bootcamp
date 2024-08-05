@@ -60,6 +60,7 @@ fun main(){
 
 val akeel = 50
 val akeel= "akeel"
+val akeel = 0.5f
 
 
     */
