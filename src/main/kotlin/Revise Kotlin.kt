@@ -58,7 +58,7 @@ fun main(){
    fun function name ()
 {}
 
-
+val akeel = 50
 
 
     */
