@@ -10,6 +10,7 @@ fun main(){
 
     val  name = readlnOrNull()
     println("hello $name! welcome here")
+    println("nothing to say")
 
 }
 
