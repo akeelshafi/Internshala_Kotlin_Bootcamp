@@ -18,4 +18,17 @@ fun main(){
     var isSafe1 = true
 
 
+
+    var myName : String
+    myName = "Akeel shafi kana"
+    println("My name is $myName")
+
+    var myAge : Int
+    myAge = 21
+    println("My age is $age")
+
+    var myWeight = 51.4
+    println("My weight is $myWeight")
+
+
 }
