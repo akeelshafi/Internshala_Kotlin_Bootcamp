@@ -36,6 +36,9 @@ fun main(){
     val myCgpa = 7.5f
     println("My CGPA is $myCgpa")
 
+    val iAmAndroidDev = true
+    println("Am i Android developer :$iAmAndroidDev")
+
 
 
 }
