@@ -33,6 +33,9 @@ fun main(){
     var myBloodGroup = 'B'
     println("My blood Group is $myBloodGroup")
 
+    val myCgpa = 7.5f
+    println("My CGPA is $myCgpa")
+
 
 
 }
