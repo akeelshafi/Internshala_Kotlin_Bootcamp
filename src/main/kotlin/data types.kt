@@ -17,7 +17,7 @@ fun main(){
     var isSafe:Boolean = true
     var isSafe1 = true
 
-
+         // Revise kotlin
 
     var myName : String
     myName = "Akeel shafi kana"
@@ -29,6 +29,10 @@ fun main(){
 
     var myWeight = 51.4
     println("My weight is $myWeight")
+
+    var myBloodGroup = 'B'
+    println("My blood Group is $myBloodGroup")
+
 
 
 }
